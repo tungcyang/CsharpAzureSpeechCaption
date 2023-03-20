@@ -1,7 +1,7 @@
-# CMiscRand
+# CsharpAzureSpeechCaption
 
 This project implements the speech-to-text conversion in C# by Azure Speech Services.
 
-This project is based in C# with Microsoft Visual Studio Enterprise 2022, Version 17.5.2.
+This project is based in C# with Microsoft Visual Studio Enterprise 2022, Version 17.5.2.  Microsoft Cognitive Services Speech SDK 1.26.0 was installed.
 
-For more information, please check out the Wordpress page in https://tungcyang.wordpress.com/.
+For more information, please check out the Wordpress page in [Azure Audio to Caption Generation in C#](https://tungcyang.wordpress.com/2023/03/20/azure-audio-to-caption-generation-in-c/).
